@@ -1,0 +1,2 @@
+# Airbnb_dataset
+共享民宿平台担保交易房子评分的数据集和app
